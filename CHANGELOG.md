@@ -1,5 +1,15 @@
 # CHANGELOG.md
 
+## v0.1.1
+
+Fixes:
+
+- actually commit the changelog __befor__ tag
+
+Features:
+
+- try out the tests on Github
+
 ## v0.1.0
 
 Fixes:

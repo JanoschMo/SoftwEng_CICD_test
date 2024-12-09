@@ -42,7 +42,7 @@ RUN \
     && cd pico-sdk/ \
     && git checkout tags/1.5.1 \
     && git submodule update --init
-    
+
 # Set the Pico SDK environment variable
 ENV PICO_SDK_PATH=/project/pico-sdk/
 
@@ -70,9 +70,9 @@ RUN \
     && doxygen Doxyfile
 
 # run tests: possible latency issues with running on git server: do it manually
-#RUN \
-#    cd /project \
-#    && ctest -v --test-dir build/debug-test --timeout 120 --output-on-failure
+RUN \
+    cd /project \
+    && ctest -v --test-dir build/debug-test --timeout 120 --output-on-failure
 
 # Command that will be invoked when the container starts
 ENTRYPOINT ["/bin/bash"]
