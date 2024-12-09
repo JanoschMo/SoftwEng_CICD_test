@@ -1,30 +1,56 @@
 # CHANGELOG.md
 
-## v0.0.4
+## v0.1.0
+
 Fixes:
- - fixed LED test
- - updated actions/checkout@v3 to actions/checkout@v4
+
+- none
 
 Features:
- - added LED functionality
+
+- none
+
+Remarks:
+
+- new developer on the team
+
+## v0.0.4
+
+Fixes:
+
+- fixed LED test
+- updated actions/checkout@v3 to actions/checkout@v4
+
+Features:
+
+- added LED functionality
 
 ## v0.0.3
+
 Fixes:
- - changed probe ID
+
+- changed probe ID
 
 Features:
- - cleanup
+
+- cleanup
 
 ## v0.0.2
+
 Fixes:
- - Updated CTest command
+
+- Updated CTest command
 
 Features:
- - none
+
+- none
 
 ## v0.0.1
+
 Fixes:
- - None
+
+- None
 
 Features:
- - Initial version of application
+
+- Initial version of application
