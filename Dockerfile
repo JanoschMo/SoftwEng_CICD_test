@@ -72,7 +72,7 @@ RUN \
 # run tests: possible latency issues with running on git server: do it manually
 RUN \
     cd /project \
-    && ctest -v --test-dir build/debug-test --timeout 120 --output-on-failure
+    && ctest -v --test-dir build/test --timeout 120 --output-on-failure
 
 # Command that will be invoked when the container starts
 ENTRYPOINT ["/bin/bash"]
