@@ -1,0 +1,65 @@
+SEGGER J-Link Remote Server V8.10g LogFile
+Logging started @ 2024-12-09 18:27
+00000000 - SERVER  (0x0015 bytes): Remote Server started
+00000000 - SERVER  (0x0015 bytes): TLV Protocol: V1.0.0 
+00000037 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00000037 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00000038 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00000063 - SERVER  (0x001B bytes): Registered at tunnel server
+00000063 - SERVER  (0x001D bytes): Waiting for client connection
+00003799 - SERVER  (0x0010 bytes): Client connected
+00004842 - SERVER  (0x0018 bytes): Client connection closed
+00004893 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00004894 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00004894 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00004921 - SERVER  (0x001B bytes): Registered at tunnel server
+00004921 - SERVER  (0x001D bytes): Waiting for client connection
+00025533 - SERVER  (0x0010 bytes): Client connected
+00026570 - SERVER  (0x0018 bytes): Client connection closed
+00026626 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00026626 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00026626 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00026650 - SERVER  (0x001B bytes): Registered at tunnel server
+00026650 - SERVER  (0x001D bytes): Waiting for client connection
+00063516 - SERVER  (0x0010 bytes): Client connected
+00064550 - SERVER  (0x0018 bytes): Client connection closed
+00064606 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00064606 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00064606 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00064631 - SERVER  (0x001B bytes): Registered at tunnel server
+00064631 - SERVER  (0x001D bytes): Waiting for client connection
+00076358 - SERVER  (0x0010 bytes): Client connected
+00077374 - SERVER  (0x0018 bytes): Client connection closed
+00077424 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00077424 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00077424 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00077448 - SERVER  (0x001B bytes): Registered at tunnel server
+00077448 - SERVER  (0x001D bytes): Waiting for client connection
+00118347 - SERVER  (0x0010 bytes): Client connected
+00119350 - SERVER  (0x0018 bytes): Client connection closed
+00119388 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00119388 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00119388 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00119415 - SERVER  (0x001B bytes): Registered at tunnel server
+00119415 - SERVER  (0x001D bytes): Waiting for client connection
+00221063 - SERVER  (0x0010 bytes): Client connected
+00233721 - SERVER  (0x0018 bytes): Client connection closed
+00233765 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00233765 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00233766 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00233792 - SERVER  (0x001B bytes): Registered at tunnel server
+00233792 - SERVER  (0x001D bytes): Waiting for client connection
+00272956 - SERVER  (0x0010 bytes): Client connected
+00281872 - SERVER  (0x0018 bytes): Client connection closed
+00281927 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00281927 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00281927 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00281953 - SERVER  (0x001B bytes): Registered at tunnel server
+00281953 - SERVER  (0x001D bytes): Waiting for client connection
+00282214 - SERVER  (0x0010 bytes): Client connected
+00291052 - SERVER  (0x0018 bytes): Client connection closed
+00291091 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801011407
+00291091 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00291091 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00291115 - SERVER  (0x001B bytes): Registered at tunnel server
+00291115 - SERVER  (0x001D bytes): Waiting for client connection
